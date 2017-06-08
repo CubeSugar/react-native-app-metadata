@@ -1,0 +1,27 @@
+
+{
+  "name": "react-native-app-metadata",
+  "version": "1.0.0",
+  "description": "get app metadata from Info.plist (iOS) or AndroidManifest.xml (android)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CubeSugar/react-native-app-metadata.git"
+  },
+  "keywords": [
+    "react-native",
+    "metadata"
+  ],
+  "author": "Wei Jian",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.40.0"
+  }
+  "bugs": {
+    "url": "https://github.com/CubeSugar/react-native-app-metadata/issues"
+  },
+  "homepage": "https://github.com/CubeSugar/react-native-app-metadata#readme"
+}
