@@ -19,7 +19,7 @@
   "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.40.0"
-  }
+  },
   "bugs": {
     "url": "https://github.com/CubeSugar/react-native-app-metadata/issues"
   },
